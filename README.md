@@ -1,5 +1,5 @@
 # Base-Control-Panel-with-Chatbot
-This repository is for controlling the base movments and directions of the robot.
+This repository is a web page for controlling the base movments and directions of the robot with a chatbot assistant.
 <h3> it contais: </h3> <br>
 -index.html <br>
 -index.php <br>
